@@ -5,20 +5,16 @@ export default class home extends Component {
     return (
       <>
         <div className="jumbotron">
-          <h1 className="display-3">Hello, world!</h1>
+          <h1 className="display-3">
+            Mussum Ipsum, cacilds vidis litro abertis
+          </h1>
           <p className="lead">
-            This is a simple hero unit, a simple jumbotron-style component for
-            calling extra attention to featured content or information.
-          </p>
-          <hr className="my-4" />
-          <p>
-            It uses utility classes for typography and spacing to space content
-            out within the larger container.
-          </p>
-          <p className="lead">
-            <a class Name="btn btn-primary btn-lg" href="#" role="button">
-              Learn more
-            </a>
+            Mussum Ipsum, cacilds vidis litro abertis. Atirei o pau no gatis,
+            per gatis num morreus. Praesent malesuada urna nisi, quis volutpat
+            erat hendrerit non. Nam vulputate dapibus. Nullam volutpat risus nec
+            leo commodo, ut interdum diam laoreet. Sed non consequat odio.
+            Admodum accumsan disputationi eu sit. Vide electram sadipscing et
+            per.
           </p>
         </div>
       </>
