@@ -1,3 +1,2 @@
 # Developed with ReactJS - Cadastro Produto!
-
-![SistemaCadastro](${__dirname}/static/assets/img/SistemaCadastro.jpg)
+https://raw.githubusercontent.com/ThiagoTeixeiraTS/cadastros-produtos-/master/src/assets/img/SistemaCadastro.jpg
